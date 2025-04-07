@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "처음 커밋"
+git remote add origin https://github.com/너의아이디/저장소이름.git
+git push -u origin main
